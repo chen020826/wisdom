@@ -1,0 +1,56 @@
+*{margin: 0;
+padding: 0;}
+body{background-image: url(./图片资源/images/back_body.png);background-size: 100% 100%;}
+.top{height: 40px;}
+.top div{margin: 0 auto; width: 30%;text-align: center;color: #fff;font-size: 20px;}
+.logo1 img{width: 100%;height: 30px;}
+.tb{height: 200px;width: 100%;}
+
+.tb .p1{font-size: 18px;color:aqua;padding-top: 20px;width: 20%;text-align: center;margin: 0 auto;}
+.tb .p2{font-size: 12px;color: #fff;width: 20%;text-align: center;margin: 0 auto;}
+.tb .tb1{height: 100px;width: 100%;}
+.tb1 .d1{ float: left;width: 15%;height: 80px; margin-left: 8%;margin-top: 20px;overflow: hidden;}
+.tb1 .d1 .t1{width: 60%;float: left;height: 80px;}
+.tb1 .d1 .t2{width: 40%;float: left;height: 80px;}
+.bule{color: aqua;font-size: 25px;text-align: center;margin-top: 10px;}
+.yuan{color: #fff;font-size: 13px;text-align: center;margin-top: 8px;}
+.xbule{color: aqua;font-size: 13px;text-align: center;}
+.yelle{color: yellow;text-align: center;}
+.tp1{background-image: url(./图片资源/image/zxh001.png);background-size: 100% 100%;}
+.tp2{background-image: url(./图片资源/image/zxh002.png);background-size: 100% 100%;}
+.tp3{background-image: url(./图片资源/image/zxh003.png);background-size: 100% 100%;}
+.tp4{background-image: url(./图片资源/image/zxh004.png);background-size: 100% 100%;}
+
+.chen{overflow: hidden;}
+.chen-left{float: left;width: 70%;padding-left: 2%;box-sizing: border-box;}
+.chen-right{float: left;width: 30%;padding-left: 2%;box-sizing: border-box;}
+
+.chen-left{overflow: hidden;}
+.chen1{ width: 55%;margin-right: 5%;float: left;}
+.chen2{width: 40%;;float: left;}
+
+.chen1 .cc1{text-indent: 24px; height: 20px; background-image: url(./图片资源/images/back_02.png);background-size: 100% 100%;margin-bottom: 5px;width: 40%;}
+.chen2 .cc1{text-indent: 24px; height: 20px; background-image: url(./图片资源/images/back_02.png);background-size: 100% 100%;margin-bottom: 5px;width: 60%;}
+#biao1{width: 100%;height: 200px;background-image: url(./图片资源/image/active-bg.png);background-size: 100% 100%;}
+#biao2{width: 100%;height: 200px;background-image: url(./图片资源/image/active-bg.png);background-size: 100% 100%;}
+#biao3{width: 100%;height: 160px;background-image: url(./图片资源/image/active-bg.png);background-size: 100% 100%;}
+
+.c1{width: 80%;height: 30px;border: #fff solid 1px; margin-top: 10px;overflow: hidden;}
+.c1 .cp1{float: left;line-height: 30px;}
+.c1 .cp2{float: right;line-height: 30px;margin-right: 5%;}
+/* 字体颜色 */
+.ztys{color: aquamarine;}
+.huang{color: yellow;}
+
+.chen3{float: left;width: 100%;}
+.chen3 div .cc1{text-indent: 24px; height: 20px; background-image: url(./图片资源/images/back_02.png);background-size: 100% 100%;margin-bottom: 5px;width: 20%;margin-top: 10px;}
+.chen3 div{overflow: hidden;}
+.chen3 .c01{float: left; width: 65%;}
+.chen3 .c02{float: right;width: 30%;margin-top: 5px;}
+.chen3 .c02 span{margin-left: 20%;}
+
+
+.chen4{text-indent: 24px; height: 20px; background-image: url(./图片资源/images/back_02.png);background-size: 100% 100%;margin-bottom: 5px;width: 40%;margin-top: 10px;}
+
+
+     
